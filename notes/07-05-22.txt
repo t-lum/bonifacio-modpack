@@ -23,6 +23,9 @@
 * Lag servidor interno
 
 
+* Não da para dormir
+
+
 
 // Implementações futuras
 
