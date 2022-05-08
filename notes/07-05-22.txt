@@ -6,6 +6,9 @@
 
 // A fazer
 
+* Bug de não poder dormir
+
+
 * Seeds identicas do mapa (start repetitivo)
 
 	* https://www.reddit.com/r/feedthebeast/comments/rg97i0/game_always_starts_on_same_map_regardless_of_seed/
@@ -24,13 +27,3 @@
 
 
 * Não da para dormir
-
-
-
-// Implementações futuras
-
-* How To Craft Your Dragon
-https://www.curseforge.com/minecraft/mc-mods/how-to-craft-your-dragon
-
-
-* Config do Terralith para seed aleatória
