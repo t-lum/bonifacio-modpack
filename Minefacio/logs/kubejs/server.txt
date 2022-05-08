@@ -1,0 +1,40 @@
+[20:45:51] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[20:45:51] [INFO ] Loaded script server_scripts:script.js in 0.007 s
+[20:45:51] [INFO ] Loaded 1/1 KubeJS server scripts in 0.015 s
+[20:45:51] [INFO ] Scripts loaded
+[20:45:51] [INFO ] Scanning recipes...
+[20:45:58] [WARN ] Failed to parse recipe 'croparia:fruit_steel[croparia:shapeless_tag]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: croparia:shapeless_tag
+[20:45:58] [WARN ] Failed to parse recipe croparia:fruit_steel[croparia:shapeless_tag]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'croparia:shapeless_tag'
+[20:45:58] [WARN ] Failed to parse recipe 'hwg:silverbullet[hwg:gun_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'hwg:silver_bullet'
+[20:45:58] [WARN ] Failed to parse recipe hwg:silverbullet[hwg:gun_table]: com.google.gson.JsonSyntaxException: Unknown item 'hwg:silver_bullet'
+[20:45:58] [WARN ] Failed to parse recipe 'croparia:seed_crop_copper[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Pattern references symbol 'I' but it's not defined in the key
+[20:45:58] [WARN ] Failed to parse recipe croparia:seed_crop_copper[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Pattern references symbol 'I' but it's not defined in the key
+[20:45:58] [WARN ] Failed to parse recipe 'hwg:nostromo_flamethrower[hwg:gun_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'hwg:nostromo_flamethrower'
+[20:45:58] [WARN ] Failed to parse recipe hwg:nostromo_flamethrower[hwg:gun_table]: com.google.gson.JsonSyntaxException: Unknown item 'hwg:nostromo_flamethrower'
+[20:45:58] [WARN ] Failed to parse recipe 'elementalswords:n_earth_sword[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'elementalswords:n_earth_sword'
+[20:45:58] [WARN ] Failed to parse recipe elementalswords:n_earth_sword[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'elementalswords:n_earth_sword'
+[20:45:58] [WARN ] Failed to parse recipe 'elementalswords:n_air_sword[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'elementalswords:n_air_sword'
+[20:45:58] [WARN ] Failed to parse recipe elementalswords:n_air_sword[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'elementalswords:n_air_sword'
+[20:45:58] [WARN ] Failed to parse recipe 'elementalswords:n_water_sword[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'elementalswords:n_water_sword'
+[20:45:58] [WARN ] Failed to parse recipe elementalswords:n_water_sword[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'elementalswords:n_water_sword'
+[20:45:59] [WARN ] Failed to parse recipe 'hwg:silvergun[hwg:gun_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'hwg:silvergun'
+[20:45:59] [WARN ] Failed to parse recipe hwg:silvergun[hwg:gun_table]: com.google.gson.JsonSyntaxException: Unknown item 'hwg:silvergun'
+[20:45:59] [WARN ] Failed to parse recipe 'croparia:fruit_grass1[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'croparia:fruit_grass1'
+[20:45:59] [WARN ] Failed to parse recipe croparia:fruit_grass1[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'croparia:fruit_grass1'
+[20:45:59] [WARN ] Failed to parse recipe 'elementalswords:n_fire_sword[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'elementalswords:n_fire_sword'
+[20:45:59] [WARN ] Failed to parse recipe elementalswords:n_fire_sword[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'elementalswords:n_fire_sword'
+[20:45:59] [WARN ] Failed to parse recipe 'croparia:obsidian_pestle[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'croparia:netherite_pestle'
+[20:45:59] [WARN ] Failed to parse recipe croparia:obsidian_pestle[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'croparia:netherite_pestle'
+[20:45:59] [WARN ] Failed to parse recipe 'croparia:renforced_pestle[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'croparia:obsidian_pestle'
+[20:45:59] [WARN ] Failed to parse recipe croparia:renforced_pestle[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'croparia:obsidian_pestle'
+[20:45:59] [WARN ] Failed to parse recipe 'croparia:seed_crop_grass1[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'croparia:seed_crop_grass1'
+[20:45:59] [WARN ] Failed to parse recipe croparia:seed_crop_grass1[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'croparia:seed_crop_grass1'
+[20:45:59] [WARN ] Failed to parse recipe 'croparia:fruit_tin[croparia:shapeless_tag]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: croparia:shapeless_tag
+[20:45:59] [WARN ] Failed to parse recipe croparia:fruit_tin[croparia:shapeless_tag]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'croparia:shapeless_tag'
+[20:45:59] [WARN ] Failed to parse recipe 'elementalswords:n_fusion_sword[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'elementalswords:n_fire_sword'
+[20:45:59] [WARN ] Failed to parse recipe elementalswords:n_fusion_sword[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'elementalswords:n_fire_sword'
+[20:45:59] [INFO ] Found 23954 recipes and 0 failed recipes in 1.104 s
+[20:45:59] [INFO ] Posted recipe events in 1.090 ms
+[20:45:59] [INFO ] Modified & removed recipes in 366.7 ms
+[20:45:59] [INFO ] Added recipes in 1.616 ms
+[20:45:59] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes

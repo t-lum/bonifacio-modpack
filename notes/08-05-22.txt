@@ -4,18 +4,13 @@
 
 * Adição do Kubejs para configs
 
-* 
+* Bug das seed identicas concertado (manter versão do terralith sempre na fabric)
 
 
 
 // A fazer
 
 * Bug de não poder dormir
-
-
-* Seeds identicas do mapa (start repetitivo)
-
-	* https://www.reddit.com/r/feedthebeast/comments/rg97i0/game_always_starts_on_same_map_regardless_of_seed/
 
 
 * Unificar Minérios
@@ -28,6 +23,3 @@
 
 
 * Lag servidor interno
-
-
-* Não da para dormir
