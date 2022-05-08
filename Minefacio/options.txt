@@ -1,10 +1,10 @@
 version:2975
-autoJump:true
+autoJump:false
 autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:false
+enableVsync:true
 entityShadows:false
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -32,10 +32,10 @@ particles:0
 maxFps:260
 difficulty:2
 graphicsMode:0
-ao:0
+ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:0
-renderClouds:true
+renderClouds:fast
 resourcePacks:["Fabric Mods"]
 incompatibleResourcePacks:[]
 lastServer:
@@ -191,7 +191,7 @@ key_key.origins.view_origin:key.keyboard.o
 key_key.petowner.hide:key.keyboard.unknown
 key_key.pettable.pet:key.keyboard.y
 key_key.rpgstats.open_gui:key.keyboard.unknown
-key_key.the_bumblezone.beehemoth_up:key.keyboard.space
+key_key.the_bumblezone.beehemoth_up:key.keyboard.backslash
 key_key.the_bumblezone.beehemoth_down:key.keyboard.caps.lock
 key_key.things.place_item:key.keyboard.j
 key_key.things.openenderchest:key.keyboard.g
