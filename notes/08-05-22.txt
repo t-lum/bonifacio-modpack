@@ -4,13 +4,13 @@
 
 * Adição do Kubejs para configs
 
-* Bug das seed identicas concertado (manter versão do terralith sempre na fabric)
+* Bug das seed identicas concertado (terralith removido, soluções estável)
+
+* Bug de não poder dormir Concertado (Mod dusk delay ajustado para meia noite)
 
 
 
 // A fazer
-
-* Bug de não poder dormir
 
 
 * Unificar Minérios
