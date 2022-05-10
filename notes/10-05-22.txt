@@ -6,6 +6,8 @@
 
 // A fazer
 
+* Aprender KubeJS
+
 
 * Unificar Minérios
 
