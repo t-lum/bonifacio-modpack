@@ -1,0 +1,13 @@
+// Feito
+
+* Removido itens que davam crash, desbalanceados e etc
+
+
+
+// A fazer
+
+
+* Unificar Minérios
+
+
+* Durabilidade bugada (negativa wtf)
