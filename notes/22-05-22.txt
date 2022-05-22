@@ -1,0 +1,18 @@
+// Feito
+
+* 
+
+
+
+// A fazer
+
+* Aprender KubeJS
+
+
+* Unificar Minérios
+
+
+* Durabilidade bugada (negativa wtf)
+
+
+* Itens com o nome bugado
