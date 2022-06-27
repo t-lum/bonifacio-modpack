@@ -1,0 +1,30 @@
+* Uso do PAX para desenvolvimento de modpack
+
+	Requisitos: Nim e um compilador C
+
+
+* O que é Nim?
+
+	* É uma linguagem de programação
+
+		* Características:
+
+			* Programação compilada
+
+			* Alto nível
+
+			* Estaticamente tipada
+
+			* Open source
+
+		* Funções:
+			
+
+			* Usos gerais
+
+			* Ter recursos modernos como os de Python, Ada e Modula
+
+			* Velocidade e facilidade, "sucessor" do Python
+
+
+* 

@@ -1,0 +1,29 @@
+// Feito
+
+* Removido mods irrelevantes e antifun (Levelz limitava muito o early game)
+
+
+
+// A fazer
+
+* Bug de não poder dormir
+
+
+* Seeds identicas do mapa (start repetitivo)
+
+	* https://www.reddit.com/r/feedthebeast/comments/rg97i0/game_always_starts_on_same_map_regardless_of_seed/
+
+
+* Unificar Minérios
+
+
+* Itens com o nome bugado
+
+
+* Durabilidade bugada (negativa wtf)
+
+
+* Lag servidor interno
+
+
+* Não da para dormir
