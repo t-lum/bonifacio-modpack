@@ -1,0 +1,15 @@
+// Feito
+
+* Removido itens que davam crash, desbalanceados e etc
+
+
+
+// A fazer
+
+* Aprender KubeJS
+
+
+* Unificar Minérios
+
+
+* Durabilidade bugada (negativa wtf)

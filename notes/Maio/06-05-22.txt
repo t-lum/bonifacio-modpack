@@ -1,0 +1,9 @@
+* Unificar Minérios
+
+* Seeds identicas do mapa (start repetitivo)
+
+* Itens com o nome bugado
+
+* Durabilidade bugada (negativa wtf)
+
+* Lag servidor interno
