@@ -1,10 +1,14 @@
 // Feito
 
-* 
-
+* Bug da textura do AE2Things (falta de textura também em outros grandes modpacks, problemas possiveis da minha maquina ou do proprio mod)
 
 
 // A fazer
+
+* 
+
+
+// Fazer futuramente
 
 * Aprender KubeJS
 
