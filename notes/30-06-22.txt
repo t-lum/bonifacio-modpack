@@ -1,0 +1,27 @@
+// Feito
+
+* 
+
+
+// A fazer
+
+* 
+
+
+// Fazer futuramente
+
+* Aprender KubeJS
+
+
+* Unificar Minérios
+
+
+* Durabilidade bugada (negativa wtf)
+
+
+* Itens com o nome bugado
+
+
+* Abrir ticket Oh The Biomes You'll Go Plus (byg plus)
+
+	* Ter exigência de dependencia do byg, o mapa é corrompido sem
