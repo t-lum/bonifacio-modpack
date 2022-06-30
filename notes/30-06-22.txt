@@ -1,6 +1,6 @@
 // Feito
 
-* 
+* Bug do Entity Banner removido
 
 
 // A fazer
@@ -9,6 +9,7 @@
 
 
 // Fazer futuramente
+
 
 * Aprender KubeJS
 
@@ -25,3 +26,8 @@
 * Abrir ticket Oh The Biomes You'll Go Plus (byg plus)
 
 	* Ter exigência de dependencia do byg, o mapa é corrompido sem
+
+
+* Abrir ticket Decorative Blockus, Dimensional Doors
+
+	* Itens sem textura no retrato
