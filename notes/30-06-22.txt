@@ -31,3 +31,8 @@
 * Abrir ticket Decorative Blockus, Dimensional Doors
 
 	* Itens sem textura no retrato
+
+
+* Abrir ticket Find Me
+
+	* Ter exigência de dependencia do haila, o mapa é corrompido sem
